@@ -1,14 +1,29 @@
-1.Flowchart Design
-I created a flowchart to determine the most efficient way for the system to function.
+# Inventory 
+**Automation of Daily Sales Recording**
 
-2. Variable and Collection Evaluation
-I evaluated which types of variables and collections to use (lists, tuples, dictionaries, or sets) and whether functions were necessary for the architecture.
+This system is a modular solution designed for sales registration and daily income analysis.
 
-3. Initial Configuration
-I performed the initial configuration by initializing all variables and data collections.
+---
 
-4. System Testing
-I conducted system tests to verify that every component was working correctly.
+## Architecture and Development
 
-5. Functional Program Completion
-I finalized the project into a fully functional program.
+### 1. Flowchart Design
+
+[cite_start]A **flowchart** was developed to define the system's critical path, optimizing data capture and logical decision-making[cite: 1, 4].
+
+### 2. Evaluation of Structures and Modularity
+A technical analysis was performed to select the components:
+* [cite_start]**Collections:** Dynamic lists were implemented to manage product names, prices, and quantities[cite: 2, 3].
+* [cite_start]**Functions:** These ensure code reusability and a clean architecture[cite: 2].
+
+### 3. Initial Configuration
+[cite_start]An initial configuration was performed by initializing all variables and data collections[cite: 3].
+
+### 4. System Testing
+[cite_start]System tests were conducted to verify that every component and calculation was working correctly[cite: 4].
+
+### 5. Final Product
+[cite_start]The system completes a full sales cycle, from data capture to the final financial summary[cite: 4, 5].
+
+---
+**Developed by Valentina Rey Cabas Miranda** 
