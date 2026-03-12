@@ -1,9 +1,21 @@
 # Inventory 
 **Automation of Daily Sales Recording**
+--
+## Description
 
-This system is a modular solution designed for sales registration and daily income analysis.
+This project is a simple Python system for recording daily sales.
+The objective is to automate the process of registering products and calculating total income.
+The program is modular and easy to understand for beginners.
 
 ---
+## How it works
+
+1. The system asks the user to enter the product name, price, and quantity sold.
+2. The program stores this information in lists.
+3. The user decides if they want to continue registering products.
+4. The system calculates the total income by multiplying the price by the quantity sold.
+5. The program prints a summary showing the product name, quantity sold, and the total for each product.
+6. Finally, the system displays the total money raised from all sales.
 
 ## Architecture and Development
 
