@@ -10,6 +10,9 @@ This system is a modular solution designed for sales registration and daily inco
 ### 1. Flowchart Design
 
 A **flowchart** was developed to define the system's critical path, optimizing data capture and logical decision-making.
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/dfc49462-b836-45d3-9277-654ac8170f98" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/dfc49462-b836-45d3-9277-654ac8170f98" />
+
 
 ### 2. Evaluation of Structures and Modularity
 A technical analysis was performed to select the components:
